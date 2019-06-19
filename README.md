@@ -41,3 +41,6 @@ Your Back-end is now ready to server the front end.
 Get the Front end here:
 
 https://github.com/minhl337/EtchASketchFE
+
+Video of running application:
+https://youtu.be/AFdqrJzG5_8
