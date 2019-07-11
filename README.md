@@ -9,6 +9,8 @@ You will need this and the Front-end:
 
 front-end-link: https://github.com/minhl337/EtchASketchFE
 
+deployed link: https://etchafetch.herokuapp.com/
+
 To get this app running.
 
 1) Fork and Clone
